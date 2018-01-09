@@ -7,3 +7,10 @@
 - git commit -m 'Primeiro commit'
 - git remote add origin https://github.com/weidmaster/git-code-education.git
 - git push origin master
+
+# Hist√rico
+
+## 0.1.0
+
+- Funcionalidade1
+- Funcionalidade2
