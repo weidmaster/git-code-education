@@ -1,1 +1,2 @@
 Definindo funcionalidade 1 do sistema
+* Corrigida funcionalidade
