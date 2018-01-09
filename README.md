@@ -8,7 +8,7 @@
 - git remote add origin https://github.com/weidmaster/git-code-education.git
 - git push origin master
 
-# Hist√rico
+# Hist&oacute;rico
 
 ## 0.1.0
 
